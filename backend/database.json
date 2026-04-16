@@ -1,0 +1,28 @@
+{
+  "test": {
+    "id": "test",
+    "username": "mahi",
+    "balance": 1800,
+    "wins": 4,
+    "total_earnings": 2000,
+    "abilities": {
+      "nitro": 1,
+      "risk": 0,
+      "shield": 0,
+      "collide": 1
+    }
+  },
+  "1408113325941723166": {
+    "id": "1408113325941723166",
+    "username": null,
+    "balance": 1000,
+    "wins": 0,
+    "total_earnings": 0,
+    "abilities": {
+      "nitro": 1,
+      "risk": 1,
+      "shield": 1,
+      "collide": 1
+    }
+  }
+}

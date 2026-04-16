@@ -1,0 +1,14 @@
+{
+  "test-session": {
+    "authorId": "test",
+    "channelId": "discord",
+    "status": "waiting",
+    "loopActive": false
+  },
+  "d67c8273-c9f7-40f3-be5f-5652e380aba6": {
+    "authorId": "1408113325941723166",
+    "channelId": "1488834593544208416",
+    "status": "waiting",
+    "loopActive": false
+  }
+}
