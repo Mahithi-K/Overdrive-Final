@@ -10,5 +10,23 @@
     "channelId": "1488834593544208416",
     "status": "waiting",
     "loopActive": false
+  },
+  "e1e9e821-5879-4b66-a86b-adc16856d9c4": {
+    "authorId": "1408113325941723166",
+    "channelId": "1488834593544208416",
+    "status": "waiting",
+    "loopActive": false
+  },
+  "7f8bf2e7-e5b7-4f23-a0bf-676bae1bc669": {
+    "authorId": "1408113325941723166",
+    "channelId": "1488834593544208416",
+    "status": "waiting",
+    "loopActive": false
+  },
+  "1a966bbc-46c8-40ef-9318-bd4284f874fc": {
+    "authorId": "1408113325941723166",
+    "channelId": "1488834593544208416",
+    "status": "waiting",
+    "loopActive": false
   }
 }
